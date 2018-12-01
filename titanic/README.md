@@ -14,5 +14,5 @@ This collection of notebooks analyses data about passengers on the Titanic and p
 1. Data scrubbing; clean up bad data
 1. Visual analysis of the data
 1. Categorize non-categorical data
-1. Logistic Regression analysis
+1. [Logistic Regression analysis](titanic-2.ipynb)
 1. Random Forest analysis
