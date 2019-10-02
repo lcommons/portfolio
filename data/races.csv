@@ -1,0 +1,23 @@
+number,Year,	Race,	Time,	State,	state_number
+1.,	2005,	'Cape Cod Marathon',	3:36:05,	Massachusetts,	1
+2.,	2008,	'Maine Marathon'	,3:21:00	,Maine,	2
+3.,	2009,	'Boston Marathon'	,3:42:32		,,
+4.,	2009,	'Stone Cat Marathon',	4:14:18	,	,
+5.,	2010,	'Boston Marathon'	,3:52:17		,,
+6.,	2010,	'12 Hours Around the Lake',	11:46:23,,		
+7.,	2010,	'Hartford Marathon',	4:29:07	,Connecticut,	3
+8.,	2010,	'Stone Cat 50 Mile race',	10:41:08,		,
+9.,	2011,	'Memphis Marathon'	,3:34:42	,Tennessee,	4
+10.,	2013,	'Vermont City Marathon',	4:38:44,	Vermont,	5
+11.,	2013,	'New York Marathon'	,4:52:56,	New York,	6
+12.,	2014,	'Rhode Island Marathon',	4:25:22	,Rhode Island	,7
+13.,	2014,	'Chicago'	,4:39:20	,Illinois	,8
+14.,	2015,	'ocean drive marathon'	,4:27:06,	New Jersey,	9
+15.,	2016,	'Delaware Marathon',	3:54	,Delaware	,10
+16.,	2016,	'Baystate Marathon'	,3:42		,,
+17.,	2016,	'Marine Corp Marathon',	3:34:09	,Virginia	,11
+18.,	2018,	'Oceans Run Marathon'	,4:57:05,		,
+19.,	2018,	'Boston Marathon'	,4:29	,	,
+20.,	2018,	'Baltimore marathon',	4:28	,Maryland	,12
+21.,	2019,	'Flying Pig Marathon, Cincinnati',	4:58,	Ohio	,13
+22.,	2019,	'Clarence DeMar Marathon',	4:29	,New Hampshire,	14
